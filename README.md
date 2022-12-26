@@ -17,7 +17,7 @@ git clone https://github.com/JorDindi/simplechat.io.git
 + Open the console ( Ctrl + ` )
 + Copy the following and paste in the console:
 ```python
-node server.js
+node public/server.js
 ```
 + The console should replay that the server is online with port 3000
 
